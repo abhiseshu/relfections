@@ -1,2 +1,3 @@
 what is your name?
 ada steve
+what is your current profession?
